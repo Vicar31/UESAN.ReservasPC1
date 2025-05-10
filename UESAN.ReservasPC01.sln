@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UESAN.ReservasPC01.API", "UESAN.ReservasPC01\UESAN.ReservasPC01.API.csproj", "{E38F9782-774C-44B8-98F9-AE10962C8AFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UESAN.ReservasPC01.CORE", "UESAN.ReservasPC01.CORE\UESAN.ReservasPC01.CORE.csproj", "{4BF9FD7C-7128-4C3C-A5F2-3D933193C0BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E38F9782-774C-44B8-98F9-AE10962C8AFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E38F9782-774C-44B8-98F9-AE10962C8AFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E38F9782-774C-44B8-98F9-AE10962C8AFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E38F9782-774C-44B8-98F9-AE10962C8AFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BF9FD7C-7128-4C3C-A5F2-3D933193C0BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BF9FD7C-7128-4C3C-A5F2-3D933193C0BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BF9FD7C-7128-4C3C-A5F2-3D933193C0BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BF9FD7C-7128-4C3C-A5F2-3D933193C0BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44DC25E0-6AFA-4028-AA4B-D5606F29A794}
+	EndGlobalSection
+EndGlobal
